@@ -1,0 +1,6 @@
+To create the project:
+  1. In terminal, type: npm create vite
+  2. Type: y
+  3. Name the project
+  4. Select React as framework
+  5. Select TypesScript
